@@ -35,14 +35,16 @@ const (
 )
 
 var countries = map[string]string{
-	"1": "France",
-	"2": "Netherlands",
-	"3": "Ireland",
-	"4": "Sweden",
-	"5": "Czechia",
-	"6": "Finland",
-	"7": "Denmark",
-	"8": "Luxembourg",
+	"1":  "France",
+	"2":  "Netherlands",
+	"3":  "Ireland",
+	"4":  "Sweden",
+	"5":  "Czechia",
+	"6":  "Finland",
+	"7":  "Denmark",
+	"8":  "Luxembourg",
+	"9":  "Germany",
+	"10": "Spain",
 }
 
 var citiesTR = map[string]string{
